@@ -1045,12 +1045,6 @@ We welcome contributions of all types: new tool recommendations, additional role
 5. Open a Pull Request: link to relevant section, describe changes.
 6. Ensure all links and code examples are validated.
 
-Please adhere to our [Code of Conduct](/CODE_OF_CONDUCT.md) and follow existing formatting conventions.
-
 ---
-
-## License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ````
