@@ -1,7 +1,5 @@
 # (API, SDK & Code Docs)
 
-## 🎯 Objectives
-
 The purpose of this module is to provide technical writers, product managers (PMs), and software engineers with comprehensive skills and insights into documenting software development tools—specifically Application Programming Interfaces (APIs), Software Development Kits (SDKs), and code snippets. The aim is to produce clear, concise, and practical developer-facing documentation that facilitates seamless integration, shortens the onboarding curve, and enhances product usability. Through this module, learners will not only acquire theoretical knowledge but also gain real-world applications, engage in reflective practice, and share personal documentation experiences.
 
 ## Why Developer Documentation Matters
