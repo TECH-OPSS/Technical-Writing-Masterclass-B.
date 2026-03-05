@@ -90,8 +90,45 @@ The style and tone of technical writing should be clear, direct, and neutral. Wr
 
 **Maintaining Formatting, Grammar, and Punctuation Consistency:** Consistency in formatting, grammar, and punctuation is critical in technical writing. Consistent use of headings, bullet points, fonts, and spacing helps readers navigate the document more easily. Similarly, adhering to proper grammar and punctuation ensures that the writing is professional and easy to read.
 
+Brain Teaser 1
+
+An engineer explains a distributed system using terms like:
+
+Event-driven architecture
+
+Idempotency
+
+Eventual consistency
+
+The audience is a startup founder with no technical background.
+
+If you simply “simplify the words,” have you solved the problem?
+
+Or must you restructure the entire explanation model?
+
+
+Brain Teaser 2
+
+You write a 40-page manual explaining a payment processing system.
+After reading it, users still contact support daily for the same issue.
+
+What failed:
+
+The system?
+
+The user?
+
+Or the documentation architecture?
+
+Explain using first principles of information transfer.
+
 
 
 Technical writing is an essential skill across many industries, serving as the bridge between technical experts and end-users. By focusing on clarity, accuracy, and a logical structure, technical writers can create documents that are not only informative but also user-friendly. Whether you are writing for beginners or advanced users, understanding your audience and adhering to core writing principles will ensure your work is effective and impactful.
+
+
+
+
+
 
 
