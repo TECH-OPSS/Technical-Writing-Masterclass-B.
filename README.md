@@ -1,5 +1,5 @@
-# 👩‍🏫 **Professional Technical Writing: From Zero to Expert**
-
+# 👩‍🏫 **WELCOME TO OUR TECHNICAL WRITING MASTERCLASS**
+# Course Outline 
 ---
 
 ## 🔍 **Who This Course Is For**
