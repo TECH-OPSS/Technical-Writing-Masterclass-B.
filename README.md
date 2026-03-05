@@ -22,7 +22,7 @@ This program is designed to empower individuals across tech disciplines with the
 * **Deliverables**: Weekly Assignments, Final Portfolio
 * **Tools Covered**: Markdown, GitHub, Docsify, Draw\.io, Postman, Swagger, Oxygen XML, and more
 * **Certificate**: Issued upon completion
-* **Instructor**: \ Tech Writer + Educator
+* **Instructor**: Professional Technical Instructor + AI Research Engineer
 
 ---
 
