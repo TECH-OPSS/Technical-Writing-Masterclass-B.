@@ -246,7 +246,7 @@ Track:
 
 ## 🏁 Final Thoughts
 
-Writing for end users isn’t just about instructions — it’s about **guiding a journey**. You’re not just documenting how your product works; you’re showing users how to succeed.
+Writing for end users isn’t just about instructions — it’s about **guiding a journey**. You’re not just documenting how your product works; you’re showing users how to succeed
 
 Here’s your mission checklist as a user-focused technical writer:
 - ✅ Make the user feel empowered, not overwhelmed
