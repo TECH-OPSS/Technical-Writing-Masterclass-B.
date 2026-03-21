@@ -1,4 +1,4 @@
-**A Decision-Based Framework for Strategic Technology Selection in Manufacturing Enterprises**
+# A Decision-Based Framework for Strategic Technology Selection in Manufacturing Enterprises
 
 **Abstract:**  
 In the landscape of manufacturing, selecting appropriate technologies is pivotal for maintaining competitive advantage. This paper presents a decision-based framework that integrates both quantitative and qualitative criteria to guide strategic technology selection. By leveraging methodologies such as the Analytic Hierarchy Process (AHP) and incorporating risk assessment tools, the framework aims to assist decision-makers in evaluating technology options systematically. A case study within a manufacturing enterprise illustrates the practical application of the framework, highlighting its efficacy in aligning technology choices with organizational objectives.
